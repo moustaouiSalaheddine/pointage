@@ -1,0 +1,29 @@
+page home kayban l kolchi
+login
+dashbord
+menu :
+1 : page => 
+employe Crud avec 
+photo *
+matrucule *
+nom *
+prenom *
+cin
+email
+telephone
+
+2 : page statistique
+3 : page pointage lafat 10s count++
+datetime pointage 
+employe
+
+dblclick jquery table example ??
+
+ajax mmtuts upload photo : https://www.youtube.com/watch?v=JaRq73y5MJk
+https://www.youtube.com/watch?v=gA_HJMd7uvQ
+
+jQuery serializeArray() Method : https://www.w3schools.com/jquery/tryit.asp?filename=tryjquery_ajax_serializearray
+
+
+ON CLICK  ENTER SHOW POINTAGE
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
